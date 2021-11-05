@@ -64,3 +64,6 @@ C:\Users\seoner\OneDrive - Borusan\Desktop\github-projects\BookStore\WebApi\obj\
 C:\Users\seoner\OneDrive - Borusan\Desktop\github-projects\BookStore\WebApi\obj\Debug\net5.0\ref\WebApi.dll
 C:\Users\seoner\OneDrive - Borusan\Desktop\github-projects\BookStore\WebApi\obj\Debug\net5.0\WebApi.pdb
 C:\Users\seoner\OneDrive - Borusan\Desktop\github-projects\BookStore\WebApi\obj\Debug\net5.0\WebApi.genruntimeconfig.cache
+C:\Users\seoner\OneDrive - Borusan\Desktop\github-projects\BookStore\WebApi\bin\Debug\net5.0\AutoMapper.dll
+C:\Users\seoner\OneDrive - Borusan\Desktop\github-projects\BookStore\WebApi\bin\Debug\net5.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+C:\Users\seoner\OneDrive - Borusan\Desktop\github-projects\BookStore\WebApi\obj\Debug\net5.0\WebApi.csproj.CopyComplete
